@@ -1,3 +1,7 @@
+#A fix will be coming soon (adding Iris Shaders (https://modrinth.com/mod/iris))
+
+
+
 # OptimisationModpack
 I made a modpack.
 
